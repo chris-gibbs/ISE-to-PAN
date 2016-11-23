@@ -1,2 +1,2 @@
 # ISE-to-PAN
-Cisco ISE to Palo Alto Firewall Integration. C# and Dotnet Core
+Cisco ISE to Palo Alto Firewall Integration. Dotnet Core console application.
